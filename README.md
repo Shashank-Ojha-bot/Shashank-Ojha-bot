@@ -10,6 +10,8 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
+- 🤝 I’m looking for help with **Referrals for SDE role**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Shashank-Ojha-bot?tab=projects](https://github.com/Shashank-Ojha-bot?tab=projects)
 
 - 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
@@ -18,7 +20,7 @@
 
 - 📫 How to reach me **ojhashashank41@gmail.com**
 
-- 📄 Know about my experiences [https://shashank-ojha-bot.github.io/Personal_Website/](https://shashank-ojha-bot.github.io/Personal_Website/)
+- 📄 Checkout my portfolio [https://shashank-ojha-bot.github.io/Personal_Website/](https://shashank-ojha-bot.github.io/Personal_Website/)
 
 - ⚡ Fun fact **When I am not learning anything, you will find me listening evergreen music.**
 
