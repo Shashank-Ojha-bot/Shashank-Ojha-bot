@@ -25,8 +25,9 @@
 - ⚡ Fun fact **When I am not learning anything, you will find me listening to evergreen music.**
 
 ### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<ul>
+  <li><a href="https://shashank-ojha.medium.com/">Power of Linux</a></li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
