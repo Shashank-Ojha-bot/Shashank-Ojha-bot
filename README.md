@@ -14,9 +14,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shashank-Ojha-bot?tab=projects](https://github.com/Shashank-Ojha-bot?tab=projects)
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **C++ Linux Frontend Web Development & Hogwarts**
+- 💬 Ask me about **C++, Linux, Frontend Web Development & Hogwarts**
 
 - 📫 How to reach me **ojhashashank41@gmail.com**
 
