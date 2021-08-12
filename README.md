@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on **Backend Web development**
+- 🔭 I’m currently working on **Spring Framework**
 
-- 🌱 I’m currently learning **Node JS**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
