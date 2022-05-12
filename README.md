@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shashank</h1>
-<h3 align="center">A Final year undergrad 🎓 at LPU, Punjab and an aspiring Software Engineer.</h3>
+<h3 align="center">Software Engineer at Guidewire</h3>
 
 
 
